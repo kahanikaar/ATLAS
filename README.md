@@ -2,7 +2,7 @@
 ## Autoencoders for Data Compression  
 Implementing Autoencoder network for compressing 4 variables data to 3 variables.  
 
-![Autoencoder Architecture](https://raw.githubusercontent.com/kahanikaar/ATLAS/main/autoencoder_fig(1)(1).png)  
+![Autoencoder Architecture](https://raw.githubusercontent.com/kahanikaar/ATLAS/main/Images/Autoencoder_Architecture.png)  
   
 ### Libraries & Frameworks used
 * Numpy
